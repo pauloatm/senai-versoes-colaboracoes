@@ -5,3 +5,5 @@ Readme de exemplo
 21:50
 
 Lembrei do comando git commit
+Lembrei do comando git:status
+
